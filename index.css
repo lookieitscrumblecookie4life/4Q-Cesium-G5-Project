@@ -1,6 +1,6 @@
 /* PAGE-HOME */
 .homepage {
-    background-image: url("/images/bg-homepage.png");
+    background-image: url("images/bg-homepage.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
